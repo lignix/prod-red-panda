@@ -21,7 +21,7 @@ Ce réseau devra être spécifié lors du lancement du conteneur **red-panda-pro
       ```.dotenv
     NUMBER_WORD=5
       ```
-* `INTEGER_SIZE` pour définir la taille du nombre fourni avant la virugule en mode nombre. Par défaut, `2`
+* `INTEGER_SIZE` pour définir la taille du nombre fourni avant la virgule en mode nombre. Par défaut, `2`
   * Exemple :
       ```.dotenv
     INTEGER_SIZE=3
